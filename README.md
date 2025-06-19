@@ -1,1 +1,0 @@
-# AI-Prompt-Generator-Discord-Chatbot-ChadBot
