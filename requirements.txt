@@ -1,0 +1,8 @@
+discord.py[voice]>=2.7.1
+davey
+azure-cognitiveservices-speech
+aiohttp
+openai
+PyNaCl
+python-dotenv
+discord-ext-voice-recv

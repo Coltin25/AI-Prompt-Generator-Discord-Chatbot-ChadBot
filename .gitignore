@@ -1,1 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+# Git
+.git/
+# Local secrets
 .env
+# Billing database
+data/
+*.db
+# Virtual environments
+venv/
+.venv/
+
+# Claude Code
+.claude/

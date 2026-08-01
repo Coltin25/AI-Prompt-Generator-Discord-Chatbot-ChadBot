@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  bot:
+    build: .
+    container_name: chadbot
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
